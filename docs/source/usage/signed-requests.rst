@@ -3,7 +3,7 @@
 Signed requests
 ===============
 
-You may parse `signed requests <http://developers.facebook.com/docs/authentication/signed_request/>`_ using the
+You may parse `signed requests <https://developers.facebook.com/docs/reference/login/signed-request>`_ using the
 ``SignedRequest`` class::
 
     from facepy import SignedRequest
